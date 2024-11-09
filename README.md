@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 #
-![](https://github-readme-stats.vercel.app/api?username=Aytsuu&theme=radical&_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aytsuu&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
 
 <br>
 
