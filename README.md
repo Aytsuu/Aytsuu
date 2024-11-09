@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px"><br/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=PROGRAM+IN+PROGRESS...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=PROGRAM+IN+PROGRESS...&center=true">
 </p>
 
     
