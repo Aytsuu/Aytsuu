@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<br><br> 
-### 🖥️ Technical Skills: 
+<br><br>  
 #
-
+### 🖥️ Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,mysql,postgresql,firebase,mongodb,git&perline=18)](https://skillicons.dev)
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -47,16 +46,16 @@ Here are some ideas to get you started:
 #
 <br>
 
-### 📊 GitHub Stats:
 #
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Aytsuu&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
 #
 <br>
 
-### 🏆 GitHub Trophies
 #
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aytsuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 #
 <br>
