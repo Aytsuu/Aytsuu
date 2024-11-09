@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Aytsuu.Aytsuu.svg)
+[![](https://visitcount.itsvg.in/api?id=Aytsuu&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
