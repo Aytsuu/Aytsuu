@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-white.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00) 
 -->
+#
 <br>
 
 ### 📊 GitHub Stats:
@@ -51,13 +52,13 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Aytsuu&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
-
+#
 <br>
 
 ### 🏆 GitHub Trophies
 #
 ![](https://github-profile-trophy.vercel.app/?username=Aytsuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+#
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Aytsuu&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
