@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br><br>  
 #
-### 🖥️ Technical Skills:
+### 🖥️ Have Experience With:
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,mysql,postgresql,firebase,mongodb,git&perline=18)](https://skillicons.dev)
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
