@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px"><br><br>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100"><br><br>
     <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=PROGRAM+IN+PROGRESS...;EXCUTING...;HELLO+WORLD!&center=true">
 </p>
 
-
-<br><br>  
 #
-### 🖥️ Programming Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,mysql,postgresql,firebase,mongodb,git&perline=18)](https://skillicons.dev)
+### About Me
+🔭 I’m exploring IoT, AI, Machine Learning, Deep Learning, and Neural Network
+<br>
+<br>
+📫 How to reach me: <br>
+<a href='https://www.linkedin.com/in/araneta-paolo-65b332336/'>![LINKEDIN](https://img.shields.io/badge/Linkedin-FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=1B94EA)</a> <a href='https://www.instagram.com/aytsuu_/'>![Instagram](https://img.shields.io/badge/Instagram-FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=#E4405F)</a> <a href='https://www.facebook.com/Mrshak8'>![Facebook](https://img.shields.io/badge/Facebook-FFFFFF.svg?style=for-the-badge&logo=facebook&logoColor=0866FF)</a>
+<br>
+#
+ <br>
+ 
+#
+### Programming Skills: <br>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,mysql,postgresql,firebase,mongodb,git,qt&perline=18)](https://skillicons.dev)
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![DOTNET](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -47,7 +56,7 @@ Here are some ideas to get you started:
 <br>
 
 #
-### 📊 GitHub Stats:
+### GitHub Stats: <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Aytsuu&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
@@ -55,7 +64,7 @@ Here are some ideas to get you started:
 <br>
 
 #
-### 🏆 GitHub Trophies
+### GitHub Trophies: <br>
 ![](https://github-profile-trophy.vercel.app/?username=Aytsuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 #
 <br>
