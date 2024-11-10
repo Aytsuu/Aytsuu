@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
 #
 ### Programming Skills: <br>
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,qt,mysql,postgresql,firebase,mongodb,git&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,dotnet,jquery,nodejs,npm,vite,react,expressjs,html,css,tailwindcss,qt,mysql,postgresql,firebase,mongodb,git&perline=18)](https://skillicons.dev)
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![DOTNET](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
