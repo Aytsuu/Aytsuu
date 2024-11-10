@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #
 ### About Me
-🔭 I’m exploring IoT, AI, Machine Learning, Deep Learning, and Neural Network
+🔭 I’m exploring **IoT, AI, Machine Learning, Deep Learning, and Neural Network**
 <br>
 <br>
 📫 How to reach me: <br>
