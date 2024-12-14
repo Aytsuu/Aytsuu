@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-🔭 I’m exploring **IoT, AI, Machine Learning, Deep Learning, and Neural Networks**
+🔭 I’m exploring **IoT, AI, Machine Learning, Deep Learning, and Neural Networks**<br>
+⚡**Exploration and Exploitation**
 <br>
 <br>
 📫 How to reach me: <br>
