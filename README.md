@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ### GitHub Stats: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&layout=compact)
-![Aytsuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aytsuu&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
 #
 <br>
