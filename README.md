@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <br>
 📫 How to reach me: <br>
 <a href='https://www.linkedin.com/in/araneta-paolo-65b332336/'>![LINKEDIN](https://img.shields.io/badge/Linkedin-FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=1B94EA)</a> 
-<a href='https://www.instagram.com/aytsuu_/'>![Instagram](https://img.shields.io/badge/Instagram-FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=FF0069)</a> 
-<a href='https://www.facebook.com/Mrshak8'>![Facebook](https://img.shields.io/badge/Facebook-FFFFFF.svg?style=for-the-badge&logo=facebook&logoColor=0866FF)</a>
 <br>
 #
  <br>
