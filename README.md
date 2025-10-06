@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 
 ### GitHub Stats: <br>
-![Aytsuu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aytsuu\&layout=compact\&theme=radical) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&layout=donut-vertical)](https://github.com/Aytsuu/github-readme-stats) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&langs_count=12&hide=css,html&hide_progress=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
 #
 <br>
