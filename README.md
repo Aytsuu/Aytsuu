@@ -22,16 +22,8 @@ Here are some ideas to get you started:
 #
  <br>
 
-
-### GitHub Stats: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&langs_count=12&hide_progress=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
 #
 <br>
 
-### GitHub Trophies: <br>
-![](https://github-profile-trophy.vercel.app/?username=Aytsuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-#
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=Aytsuu&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
