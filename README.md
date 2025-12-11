@@ -19,11 +19,5 @@ Here are some ideas to get you started:
 📫 How to reach me: <br>
 <a href='https://www.linkedin.com/in/araneta-paolo-65b332336/'>![LINKEDIN](https://img.shields.io/badge/Linkedin-FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=1B94EA)</a> 
 <br>
-#
- <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytsuu&theme=radical&langs_count=12&hide_progress=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aytsuu&theme=radical&hide_border=false)
-#
-<br>
 
