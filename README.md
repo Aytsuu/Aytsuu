@@ -33,17 +33,9 @@ Here are some ideas to get you started:
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Suggested Actions                                           ║
-║  ─────────────────────────────────────────────────────────   ║
-║  [1]  Review the stack trace in your logs                    ║
-║  [2]  Verify environment variables and configuration         ║
-║  [3]  Restart the process after resolving the issue          ║
-║  [4]  Contact support if the problem persists                ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
 ║    This error is unrecoverable. Do not ignore.               ║
 ║     See the documentation for further assistance.            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+> ⚠️ **Warning:** This profile may be experiencing critical errors. [Click here to investigate.](https://aytsuu.github.io/html-for-readme)
